@@ -6,5 +6,6 @@ It is similar to a simple maze set up. It has a start point, end point, barrier 
 The program helps to understand the algorithm to find the desired location using breadth first search (BFS).
 
 Number of rows and columns are customisable.
+Run the file "MazeGUI.java" to open the GUI application.
 
 ENJOY !!!
